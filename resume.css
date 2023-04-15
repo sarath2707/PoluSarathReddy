@@ -4,7 +4,18 @@ header {
   color: #fff;
   padding: 20px;
 }
+/* Set background color for body */
+body {
+  background-color: #f8f8f8; /* Replace with your desired color */
+}
 
+/* Set color for main container */
+.container {
+  background-color: #fff; /* Replace with your desired color */
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
 .branding {
   font-size: 24px;
   margin: 0;
