@@ -37,8 +37,8 @@ nav {
   height: 100px; /* adjust the height as needed */
   border-radius: 50%; /* to create a circular profile photo */
   object-fit: cover; /* to maintain aspect ratio and crop if needed */
-  margin-left: auto; /* add margin to the left of the profile photo to push it to the right */
-  margin-right: 10px; /* optional: add margin to the right of the profile photo */
+  margin-left: 10px; /* add margin to the left of the profile photo to push it to the right */
+  margin-right: auto; /* optional: add margin to the right of the profile photo */
 }
 
 .nav_links {
