@@ -4,10 +4,6 @@ header {
   color: #fff;
   padding: 20px;
 }
-/* Set background color for body */
-body {
-  background-color: #f8f8f8; /* Replace with your desired color */
-}
 
 .profile_photo {
   width: 100px; /* adjust the width as needed */
@@ -17,6 +13,11 @@ body {
   margin-left: auto; /* add margin to the left of the profile photo to push it to the right */
   margin-right: 10px; /* optional: add margin to the right of the profile photo */
   float: right; /* use float property to align the profile photo to the right */
+}
+
+/* Set background color for body */
+body {
+  background-color: #f8f8f8; /* Replace with your desired color */
 }
 
 /* Set color for main container */
